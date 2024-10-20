@@ -1,4 +1,4 @@
 # Proceso para ejecutar Carrera.cpp
-## Abrir terminal
-## Usar el comando make
-## ejecutar el programa con el comando ./Carrera (num_autos) (distancia)
+## 1-Abrir terminal
+## 2-Usar el comando make
+## 3-ejecutar el programa con el comando ./Carrera (num_autos) (distancia)
